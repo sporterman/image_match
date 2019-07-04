@@ -2,7 +2,9 @@
 locate small image in big image
 
 example：
+
 python3 main.py tanker.py tanker_a.png
+
 python3 main.py tanker.py tanker_b.jpg
 
 使用example时请注意：
